@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Africa</key>
+	<array>
+		<string>Algeria</string>
+		<string>Angola</string>
+		<string>Benin</string>
+		<string>Botswana</string>
+		<string>Burkina Faso</string>
+		<string>Burundi</string>
+		<string>Cameroon</string>
+		<string>Cape Verde</string>
+		<string>Central African Republic</string>
+		<string>Chad</string>
+		<string>Comoros</string>
+		<string>Republic of the Congo</string>
+		<string>Democratic Republic of the Congo</string>
+		<string>Côte d&apos;Ivoire (Ivory Coast)</string>
+		<string>Djibouti</string>
+		<string>Egypt</string>
+		<string>Equatorial Guinea</string>
+		<string>Eritrea</string>
+		<string>Ethiopia</string>
+		<string>Gabon</string>
+		<string>The Gambia</string>
+		<string>Ghana</string>
+		<string>Guinea</string>
+		<string>Guinea-Bissau</string>
+		<string>Kenya</string>
+		<string>Lesotho</string>
+		<string>Liberia</string>
+		<string>Libya</string>
+		<string>Madagascar</string>
+		<string>Malawi</string>
+		<string>Mali</string>
+		<string>Mauritania</string>
+		<string>Mauritius</string>
+		<string>Morocco</string>
+		<string>Mozambique</string>
+		<string>Namibia</string>
+		<string>Niger</string>
+		<string>Nigeria</string>
+		<string>Rwanda</string>
+		<string>São Tomé and Príncipe</string>
+		<string>Senegal</string>
+		<string>Seychelles</string>
+		<string>Sierra Leone</string>
+		<string>Somalia</string>
+		<string>South Africa</string>
+		<string>South Sudan</string>
+		<string>Sudan</string>
+		<string>Swaziland</string>
+		<string>Tanzania</string>
+		<string>Togo</string>
+		<string>Tunisia</string>
+		<string>Uganda</string>
+		<string>Zambia</string>
+		<string>Zaire</string>
+		<string>Zimbabwe</string>
+	</array>
+	<key>Asia</key>
+	<array>
+		<string>Afghanistan</string>
+		<string>Armenia</string>
+		<string>Azerbaijan</string>
+		<string>Bahrain</string>
+		<string>Bangladesh</string>
+		<string>Bhutan</string>
+		<string>Brunei</string>
+		<string>Cambodia</string>
+		<string>China</string>
+		<string>East Timor</string>
+		<string>India</string>
+		<string>Indonesia</string>
+		<string>Iran</string>
+		<string>Iraq</string>
+		<string>Israel</string>
+		<string>Palestine</string>
+		<string>Japan</string>
+		<string>Jordan</string>
+		<string>Kazakhstan</string>
+		<string>Kuwait</string>
+		<string>Kyrgyzstan</string>
+		<string>Laos</string>
+		<string>Lebanon</string>
+		<string>Malaysia</string>
+		<string>Maldives</string>
+		<string>Mongolia</string>
+		<string>Myanmar</string>
+		<string>Nepal</string>
+		<string>North Korea</string>
+		<string>Oman</string>
+		<string>Pakistan</string>
+		<string>Philippines</string>
+		<string>Qatar</string>
+		<string>Russia</string>
+		<string>Saudi Arabia</string>
+		<string>Singapore</string>
+		<string>South Korea</string>
+		<string>Sri Lanka</string>
+		<string>Syria</string>
+		<string>Tajikistan</string>
+		<string>Thailand</string>
+		<string>Tibet</string>
+		<string>Turkey</string>
+		<string>Turkmenistan</string>
+		<string>United Arab Emirates</string>
+		<string>Uzbekistan</string>
+		<string>Vietnam</string>
+		<string>Yemen</string>
+	</array>
+	<key>Europe</key>
+	<array>
+		<string>Albania</string>
+		<string>Andorra</string>
+		<string>Austria</string>
+		<string>Belarus</string>
+		<string>Belgium</string>
+		<string>Bosnia and Herzegovina</string>
+		<string>Bulgaria</string>
+		<string>Croatia</string>
+		<string>Cyprus</string>
+		<string>Czech Republic</string>
+		<string>Denmark</string>
+		<string>England</string>
+		<string>Estonia</string>
+		<string>Finland</string>
+		<string>France</string>
+		<string>Georgia</string>
+		<string>Germany</string>
+		<string>Greece</string>
+		<string>Hungary</string>
+		<string>Iceland</string>
+		<string>Republic of Ireland</string>
+		<string>Italy</string>
+		<string>Latvia</string>
+		<string>Liechtenstein</string>
+		<string>Lithuania</string>
+		<string>Luxembourg</string>
+		<string>Republic of Macedonia</string>
+		<string>Malta</string>
+		<string>Moldova</string>
+		<string>Monaco</string>
+		<string>Montenegro</string>
+		<string>Netherlands</string>
+		<string>Norway</string>
+		<string>Poland</string>
+		<string>Portugal</string>
+		<string>Romania</string>
+		<string>Russia</string>
+		<string>San Marino</string>
+		<string>Serbia</string>
+		<string>Slovakia</string>
+		<string>Slovenia</string>
+		<string>Spain</string>
+		<string>Sweden</string>
+		<string>Switzerland</string>
+		<string>Turkey</string>
+		<string>Ukraine</string>
+		<string>United Kingdom</string>
+		<string>Vatican City</string>
+	</array>
+	<key>North America</key>
+	<array>
+		<string>Antigua and Barbuda</string>
+		<string>Bahamas</string>
+		<string>Barbados</string>
+		<string>Belize</string>
+		<string>Canada</string>
+		<string>Cayman Islands</string>
+		<string>Costa Rica</string>
+		<string>Cuba</string>
+		<string>Dominica</string>
+		<string>Dominican Republic</string>
+		<string>El Salvador</string>
+		<string>Greenland</string>
+		<string>Grenada</string>
+		<string>Guatemala</string>
+		<string>Haiti</string>
+		<string>Honduras</string>
+		<string>Jamaica</string>
+		<string>Mexico</string>
+		<string>Nicaragua</string>
+		<string>Panama</string>
+		<string>Saint Kitts and Nevis</string>
+		<string>Saint Lucia</string>
+		<string>Saint Vincent and the Grenadines</string>
+		<string>Trinidad and Tobago</string>
+		<string>United States</string>
+		<string>Turks and Caicos</string>
+	</array>
+	<key>South America</key>
+	<array>
+		<string>Argentina</string>
+		<string>Bolivia</string>
+		<string>Brazil</string>
+		<string>Chile</string>
+		<string>Colombia</string>
+		<string>Ecuador</string>
+		<string>Guyana</string>
+		<string>Paraguay</string>
+		<string>Peru</string>
+		<string>Suriname</string>
+		<string>Uruguay</string>
+		<string>Venezuela</string>
+	</array>
+	<key>Oceania</key>
+	<array>
+	  <string>Australia</string>
+    <string>Fiji</string>
+    <string>Kiribati</string>
+    <string>Marshall Islands</string>
+    <string>Micronesia</string>
+    <string>Nauru</string>
+    <string>New Zealand</string>
+    <string>Palau</string>
+    <string>Papua New Guinea</string>
+    <string>Samoa</string>
+    <string>Solomon Islands</string>
+    <string>Tonga</string>
+    <string>Tuvalu</string>
+    <string>Vanuatu</string>
+  </array>
+</dict>
+</plist>
