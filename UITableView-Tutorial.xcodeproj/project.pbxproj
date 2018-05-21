@@ -17,6 +17,7 @@
 		251D25F2143BB99E00CD588B /* CountriesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 251D25F0143BB99E00CD588B /* CountriesTableViewController.m */; };
 		251D25F3143BB99E00CD588B /* CountriesTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 251D25F1143BB99E00CD588B /* CountriesTableViewController.xib */; };
 		251D25F5143BB9B500CD588B /* countries.plist in Resources */ = {isa = PBXBuildFile; fileRef = 251D25F4143BB9B500CD588B /* countries.plist */; };
+		CD255639195CD5D200CDDFF9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD255638195CD5D200CDDFF9 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		251D25F0143BB99E00CD588B /* CountriesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountriesTableViewController.m; sourceTree = "<group>"; };
 		251D25F1143BB99E00CD588B /* CountriesTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CountriesTableViewController.xib; sourceTree = "<group>"; };
 		251D25F4143BB9B500CD588B /* countries.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = countries.plist; sourceTree = "<group>"; };
+		CD255638195CD5D200CDDFF9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		251D25C6143BB96300CD588B = {
 			isa = PBXGroup;
 			children = (
+				CD255638195CD5D200CDDFF9 /* Default-568h@2x.png */,
 				251D25DB143BB96300CD588B /* UITableView-Tutorial */,
 				251D25D4143BB96300CD588B /* Frameworks */,
 				251D25D2143BB96300CD588B /* Products */,
@@ -130,6 +133,7 @@
 		251D25C8143BB96300CD588B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Draconis Software";
 			};
 			buildConfigurationList = 251D25CB143BB96300CD588B /* Build configuration list for PBXProject "UITableView-Tutorial" */;
@@ -157,6 +161,7 @@
 				251D25E0143BB96300CD588B /* InfoPlist.strings in Resources */,
 				251D25E9143BB96300CD588B /* MainWindow.xib in Resources */,
 				251D25F3143BB99E00CD588B /* CountriesTableViewController.xib in Resources */,
+				CD255639195CD5D200CDDFF9 /* Default-568h@2x.png in Resources */,
 				251D25F5143BB9B500CD588B /* countries.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -200,7 +205,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -216,6 +220,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -224,7 +229,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -244,6 +248,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UITableView-Tutorial/UITableView-Tutorial-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "UITableView-Tutorial/UITableView-Tutorial-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -255,6 +260,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UITableView-Tutorial/UITableView-Tutorial-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "UITableView-Tutorial/UITableView-Tutorial-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -280,6 +286,7 @@
 				251D25EE143BB96300CD588B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
